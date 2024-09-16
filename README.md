@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 ⚡ I’m currently in 3rd year at IIT Patna
 
