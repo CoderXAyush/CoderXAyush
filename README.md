@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderxayush" alt="coderxayush" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ayush7aman" target="blank"><img src="https://img.shields.io/twitter/follow/ayush7aman?logo=twitter&style=for-the-badge" alt="ayush7aman" /></a> </p>
-
 - 🏫 I’m currently studying at **Indian Institute of Technology, Patna**
 
 - 🌱 I’m currently learning **TypeScript, Docker.**
