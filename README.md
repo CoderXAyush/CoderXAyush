@@ -23,4 +23,6 @@
 
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderxayush&" alt="coderxayush" /></p>
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderxayush&" alt="coderxayush" />
+</div>
