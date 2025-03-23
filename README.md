@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kumar Ayush Aman</h1>
-<h3 align="center">A passionate developer & coder.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderxayush&label=Profile%20views&color=0e75b6&style=flat" alt="coderxayush" /> </p>
 
 - 🏫 I’m currently studying at **Indian Institute of Technology, Patna**
