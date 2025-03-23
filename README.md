@@ -23,8 +23,4 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderxayush&show_icons=true&locale=en&layout=compact" alt="coderxayush" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderxayush&show_icons=true&locale=en" alt="coderxayush" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderxayush&" alt="coderxayush" /></p>
