@@ -36,3 +36,12 @@
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderxayush&" alt="coderxayush" />
 </div>
+<img src="https://raw.githubusercontent.com/CoderXAyush/CoderXAyush/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
