@@ -37,5 +37,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/CoderXAyush/CoderXAyush/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/CoderXAyush/CoderXAyush/output/snake.svg" alt="Snake animation" /> -->
 
