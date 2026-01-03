@@ -23,7 +23,7 @@
         <a href="https://www.leetcode.com/zetex" target="blank">
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zetex" height="30" width="40" />
         </a>
-        <a href="https://codeforces.com/profile/unknowncoder_4_9" target="blank">
+        <a href="https://codeforces.com/profile/alter_ego_3003" target="blank">
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="unknowncoder_4_9" height="30" width="40" />
         </a>
         <a href="https://twitter.com/ayush7aman" target="blank">
